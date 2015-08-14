@@ -1,5 +1,6 @@
 #!/bin/env node
 //  OpenShift sample Node application
+//Author vivz
 var express = require('express')
     , fs = require('fs')
     , path = require('path')
